@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kakkia
-- 👀 I'm interested in Dataviz, A/B Testing, Cloud Engineering, Machine Learning 
+- 👀 I'm interested in Dataviz, A/B Testing, Cloud Engineering 
 - 🌱 I'm currently learning Data Science
 - 💞️ I’m looking to collaborate on Dataviz
 - 📫 Twitter @kakkia 
